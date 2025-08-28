@@ -19,7 +19,7 @@ body {
   display: flex;
   align-items: center;
   gap: 1.5rem;
-  border-bottom: 2px solid #007acc;
+  border-bottom: 2px solid #529dc2;
   padding-bottom: 1rem;
   margin-bottom: 1.5rem;
 }
@@ -29,16 +29,16 @@ body {
   height: 120px;
   object-fit: cover;
   border-radius: 50%;
-  border: 2px solid #007acc;
+  border: 2px solid #529dc2;
 }
 
 h1 {
   margin: 0;
-  color: #007acc;
+  color: #529dc2;
 }
 
 h2 {
-  color: #007acc;
+  color: #529dc2;
   margin-top: 1.5rem;
 }
 
@@ -47,6 +47,6 @@ ul {
 }
 
 a {
-  color: #007acc;
+  color: #bc91c2;
   text-decoration: none;
 }
