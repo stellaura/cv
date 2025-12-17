@@ -1,0 +1,52 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f2f2f2;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.header-with-photo {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  border-bottom: 2px solid #529dc2;
+  padding-bottom: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.profile-pic {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid #529dc2;
+}
+
+h1 {
+  margin: 0;
+  color: #529dc2;
+}
+
+h2 {
+  color: #529dc2;
+  margin-top: 1.5rem;
+}
+
+ul {
+  padding-left: 1.5rem;
+}
+
+a {
+  color: #bc91c2;
+  text-decoration: none;
+}
